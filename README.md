@@ -11,4 +11,4 @@ devopscerts/devopscerts is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 <p align="center">
-<img alt="Current Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=h3ct0rjs&theme=dark" /> </p>
+<img alt="Current Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=h3ct0rjs" /> </p>
